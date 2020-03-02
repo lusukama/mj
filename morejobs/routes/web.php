@@ -11,6 +11,10 @@
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+Route::get('/', 'moreJobController@index')->name('home');
+Route::get('/', 'moreJobController@create')->name('create');
+
+
+// Route::get('/', function () {
+//     return view('welcome');
+// });

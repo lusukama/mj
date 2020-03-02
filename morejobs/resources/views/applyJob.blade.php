@@ -6,7 +6,7 @@
 <div class="container">
   <div class="row">
     <div class="col">
-      <h1 style="margin-top: 120px;">Welcome to MoreJobs More Opportunity</h1><br/><br/><br/><br/><br/>
+      <h1 style="margin-top: 120px;">Apply Now for Job</h1><br/><br/><br/><br/><br/>
       <br/><br/><br/><br/><br/><br/><br/>
     </div>
 

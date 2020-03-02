@@ -24,18 +24,6 @@
       <li class="nav-item">
         <a class="nav-link" href="#">Apply For Jobs</a>
       </li>
-
-      <!-- Dropdown -->
-      <li class="nav-item dropdown">
-        <a class="nav-link dropdown-toggle" id="navbarDropdownMenuLink" data-toggle="dropdown"
-          aria-haspopup="true" aria-expanded="false">Category</a>
-        <div class="dropdown-menu dropdown-primary" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="#">IT Jobs</a>
-          <a class="dropdown-item" href="#">Builders Jobs</a>
-          <a class="dropdown-item" href="#">Publi Jobs</a>
-        </div>
-      </li>
-
     </ul>
     <!-- Links -->
     <form class="form-inline">
