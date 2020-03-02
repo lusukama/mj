@@ -1,5 +1,5 @@
 <!--Navbar-->
-<nav class="navbar fixed-top navbar-expand-lg navbar-dark primary-color">
+<nav class="navbar fixed-top navbar-expand-lg navbar-dark red lighten-1">
   <!-- Navbar brand -->
   <a class="navbar-brand" href="#">more<span class="job">Jobs</span></a>
   <!-- Collapse button -->
