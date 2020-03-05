@@ -12,7 +12,7 @@
 */
 
 Route::get('/', 'moreJobController@index')->name('home');
-Route::get('/', 'moreJobController@create')->name('create');
+// Route::get('/', 'moreJobController@create')->name('create');
 
 
 // Route::get('/', function () {

@@ -23,7 +23,7 @@ class moreJobController extends Controller
      */
     public function create()
     {
-        return view('addJob');
+        // return view('addJob');
     }
 
     /**
